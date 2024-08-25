@@ -1,4 +1,4 @@
-# Premier League Tactical Analysis AI Assistant
+# Premier League 2023/24 Tactical Analysis AI Assistant
 
 ## Project Overview
 This project leverages AI to generate in-depth tactical insights for the Premier League 2023/24 season. It uses OpenAI's GPT-4 Turbo model to analyze team tactics, predict match outcomes, and provide detailed analysis of playing styles.
@@ -38,7 +38,12 @@ This project requires API keys for OpenAI and Ngrok. For security reasons, these
 
 ## Future Improvements
 - Expand analysis to other football leagues
-- Implement more advanced statistical models for predictions
+- To enhance the functionality and provide a more dynamic user experience, future iterations of this chatbot will focus on integrating real-time data through external
+  football data APIs. The integration will allow the chatbot to fetch the most up-to-date information as per user queries, enabling the provision of real-time insights and     analysis. This will include:
+     - Live Match Updates: Integration with APIs to provide real-time scores, match events, and other live updates.
+     - Player Statistics: Fetching the latest player statistics, including performance metrics, injury reports, and transfer news.
+     - Team Formations and Tactics: Delivering current team formations, strategies, and lineup changes based on live data.
+     - Upcoming Fixtures and Results: Accessing schedules and recent results to keep users informed about upcoming and past matches.
 - Add historical data analysis for team performance trends
 
 ## Contact
